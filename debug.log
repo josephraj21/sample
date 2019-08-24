@@ -1,0 +1,1 @@
+[0821/153416.053:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ELCOT\AppData\Local\Temp\scoped_dir3352_132375556\Crashpad\reports\fc6686cf-0122-4409-9178-0defc77fe8c1.dmp: The process cannot access the file because it is being used by another process. (0x20)
